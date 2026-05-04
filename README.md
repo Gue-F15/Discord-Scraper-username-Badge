@@ -19,7 +19,7 @@
 ✅ **Runs via Discord Token without requiring a bot**\
 ✅ **Simple and easy to use**
 ![1](image.png)
-![2](image2.png)
+![2]()
 ## 🔧 Requirements
 
 Make sure you have the following before running the tool:
