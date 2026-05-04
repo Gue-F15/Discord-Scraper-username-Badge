@@ -18,8 +18,8 @@
 ✅ **Displays results in the console**\
 ✅ **Runs via Discord Token without requiring a bot**\
 ✅ **Simple and easy to use**
-![1](image.png)
-![2]()
+![1]()
+![2](image2.png)
 ## 🔧 Requirements
 
 Make sure you have the following before running the tool:
