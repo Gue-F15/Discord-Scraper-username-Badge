@@ -4,8 +4,8 @@
 
 **Scrapper.js** is a selfbot-based tool that scans users in Discord voice channels and analyzes their data, such as usernames, badges, and channel members. It then sends the collected information to a specified **Webhook**.
 
-🔹 **Developer:** [@Gue1337](https://github.com/gue1337)\
-🔹 **Repository:** [GitHub Repo](https://github.com/gue1337)\
+🔹 **Developer:** [@Gue-F15](https://github.com/Gue-F15)\
+🔹 **Repository:** [GitHub Repo](https://github.com/Gue-F15)\
 🔹 **Language:** JavaScript (Node.js)
 
 ## ⚙️ Features
@@ -70,8 +70,8 @@ node scrapper.js
 
 ## 👤 Developer
 
-🔹 **Developer:** Gue1337\
-🔹 **GitHub:** [@Gue1337](https://github.com/gue1337)\
+🔹 **Developer:**Gue-F15
+🔹 **GitHub:** [@Gue1337](https://github.com/Gue-F15)\
 🔹 **Project Repo:** [Discord Bot Scraper](https://github.com/gue1337/Discord-Scraper-username-Badge)\
 🔹 **Discord:** fzrawy
 
