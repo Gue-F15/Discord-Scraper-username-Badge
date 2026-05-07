@@ -9,8 +9,8 @@ const client = new Client();
 
 client.on('ready', () => {
     console.log('▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀');
-    console.log('dev By @Gue1337');
-    console.log('GitHub: https://github.com/gue1337');
+    console.log('dev By @Gue-F15');
+    console.log('GitHub: https://github.com/Gue-F15');
     console.log('------------------------------------');
     console.log('░██████╗░██╗░░░██╗███████╗░░███╗░░██████╗░██████╗░███████╗');
     console.log('██╔════╝░██║░░░██║██╔════╝░████║░░╚════██╗╚════██╗╚════██║');
@@ -56,7 +56,7 @@ client.on('voiceStateUpdate', async (oldState, newState) => {
             console.log(' ');
             console.log(' ');
 
-            console.log('%cdev By @Gue1337', 'color: blue; font-weight: bold;');
+            console.log('%cdev By @Gue-F15', 'color: blue; font-weight: bold;');
             console.log('%cGitHub: https://github.com/gue1337', 'color: blue; font-weight: bold;');
             console.log(' ');
 
@@ -71,7 +71,7 @@ client.on('voiceStateUpdate', async (oldState, newState) => {
                     { name: '**Badges**', value: badgeText || 'None', inline: true }
                 ])
                 .setThumbnail(avatarURL)
-                .setFooter({ text: 'https://github.com/gue1337' })
+                .setFooter({ text: 'https://github.com/Gue-F15' })
                 .setTimestamp(false);
 
             const data = {
